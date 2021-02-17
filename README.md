@@ -1,1 +1,1 @@
-# Do-not-waste-paper
+# CP-2
